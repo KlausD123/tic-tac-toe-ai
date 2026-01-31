@@ -1,5 +1,4 @@
 # 🎮 Tic Tac Toe Game (3×3 & 4×4) with AI
-
 A responsive **Tic Tac Toe web application** that supports **3×3 and 4×4 boards**, with two game modes:
 - 👥 Play with Friend  
 - 🤖 Play with AI (Alpha-Beta Pruning)
@@ -7,7 +6,6 @@ A responsive **Tic Tac Toe web application** that supports **3×3 and 4×4 board
 The AI responds in **less than 2 seconds** using an optimized **Minimax algorithm with Alpha-Beta pruning**.
 
 ## 🚀 Features
-
 - ✅ Dynamic board size (3×3 and 4×4)
 - ✅ Two game modes: Friend & AI
 - ✅ AI powered by Alpha-Beta Pruning
@@ -18,7 +16,6 @@ The AI responds in **less than 2 seconds** using an optimized **Minimax algorith
 - ✅ Deployable on GitHub Pages
 
 ## 🧠 AI Algorithm Used
-
 The AI uses:
 - **Minimax Algorithm**
 - **Alpha-Beta Pruning** for optimization
@@ -27,7 +24,6 @@ The AI uses:
 This combination drastically reduces unnecessary game state evaluations while maintaining intelligent gameplay.
 
 ## 🛠️ Tech Stack
-
 - **HTML5** – Structure
 - **CSS3** – Styling & responsiveness
 - **Vanilla JavaScript** – Game logic & AI
@@ -35,7 +31,6 @@ This combination drastically reduces unnecessary game state evaluations while ma
 No external libraries or frameworks are used.
 
 ## 📂 Project Structure
-
 tic-tac-toe/
 │
 ├── index.html # Main HTML file
