@@ -43,3 +43,11 @@ No external libraries or frameworks are used in this project.
 
 ## 📂 Project Structure
 
+```plaintext
+tic-tac-toe/
+│
+├── index.html   # Handles the game layout and UI structure
+├── style.css    # Manages styling and responsive behavior
+└── script.js    # Contains full game logic and AI (single JS file)
+```
+
