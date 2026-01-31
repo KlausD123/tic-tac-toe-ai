@@ -6,8 +6,6 @@ A responsive **Tic Tac Toe web application** that supports **3×3 and 4×4 board
 
 The AI responds in **less than 2 seconds** using an optimized **Minimax algorithm with Alpha-Beta pruning**.
 
----
-
 ## 🚀 Features
 
 - ✅ Dynamic board size (3×3 and 4×4)
@@ -19,8 +17,6 @@ The AI responds in **less than 2 seconds** using an optimized **Minimax algorith
 - ✅ No backend, no database
 - ✅ Deployable on GitHub Pages
 
----
-
 ## 🧠 AI Algorithm Used
 
 The AI uses:
@@ -30,8 +26,6 @@ The AI uses:
 
 This combination drastically reduces unnecessary game state evaluations while maintaining intelligent gameplay.
 
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Structure
@@ -39,8 +33,6 @@ This combination drastically reduces unnecessary game state evaluations while ma
 - **Vanilla JavaScript** – Game logic & AI
 
 No external libraries or frameworks are used.
-
----
 
 ## 📂 Project Structure
 
