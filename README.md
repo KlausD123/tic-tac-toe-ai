@@ -1,38 +1,45 @@
-# 🎮 Tic Tac Toe Game (3×3 & 4×4) with AI
-A responsive **Tic Tac Toe web application** that supports **3×3 and 4×4 boards**, with two game modes:
-- 👥 Play with Friend  
-- 🤖 Play with AI (Alpha-Beta Pruning)
+# 🎮 Tic Tac Toe (3×3 & 4×4) – Web Game with AI
 
-The AI responds in **less than 2 seconds** using an optimized **Minimax algorithm with Alpha-Beta pruning**.
+This is a simple and interactive **Tic Tac Toe web game** built using pure HTML, CSS, and JavaScript.  
+The game supports **two board sizes (3×3 and 4×4)** and allows players to either play with a friend or challenge an AI.
 
-## 🚀 Features
-- ✅ Dynamic board size (3×3 and 4×4)
-- ✅ Two game modes: Friend & AI
-- ✅ AI powered by Alpha-Beta Pruning
-- ✅ Fast AI response (< 2 seconds)
-- ✅ Fully responsive (Mobile & Desktop)
-- ✅ Clean and modern UI
-- ✅ No backend, no database
-- ✅ Deployable on GitHub Pages
+The AI player is implemented using the **Minimax algorithm with Alpha-Beta pruning**, which helps it make smart moves while keeping the response time under **2 seconds**.
 
-## 🧠 AI Algorithm Used
-The AI uses:
-- **Minimax Algorithm**
-- **Alpha-Beta Pruning** for optimization
-- **Depth Limiting** to ensure fast performance on 4×4 boards
+---
 
-This combination drastically reduces unnecessary game state evaluations while maintaining intelligent gameplay.
+## 🚀 Key Features
 
-## 🛠️ Tech Stack
-- **HTML5** – Structure
-- **CSS3** – Styling & responsiveness
-- **Vanilla JavaScript** – Game logic & AI
+- 🎯 Choice between **3×3** and **4×4** game boards  
+- 👥 **Two-player mode** to play with a friend  
+- 🤖 **AI mode** with intelligent decision-making  
+- ⚡ Fast AI response using Alpha-Beta pruning  
+- 📱 Fully responsive design (works on mobile & desktop)  
+- 🎨 Simple, clean, and user-friendly interface  
+- 🌐 No backend or database required  
+- 🚀 Easy to deploy using GitHub Pages  
 
-No external libraries or frameworks are used.
+---
+
+## 🧠 AI Logic Overview
+
+The AI player is based on:
+- **Minimax Algorithm** for optimal decision-making  
+- **Alpha-Beta Pruning** to reduce unnecessary calculations  
+- **Depth limiting** to maintain performance on the 4×4 board  
+
+These optimizations ensure the AI plays efficiently without causing delays or UI freezing.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – For structuring the game layout  
+- **CSS3** – For styling and responsive design  
+- **JavaScript (Vanilla)** – For game logic and AI implementation  
+
+No external libraries or frameworks are used in this project.
+
+---
 
 ## 📂 Project Structure
-tic-tac-toe/
-│
-├── index.html # Main HTML file
-├── style.css # Styling and responsive design
-└── script.js # Complete game logic & AI (single JS file)
+
